@@ -6,7 +6,7 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 ### Business Questions to Analyze
 
 
-1. Industry & Market Trends
+1. **Industry & Market Trends**
 
 - Which industries dominate the Global 2000 in terms of market value or sales?
 
@@ -14,7 +14,7 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 
 - Which industries are asset-heavy vs. asset-light?
 
-2. Geographic / Regional Insights
+2. **Geographic / Regional Insights**
 
 - Which countries host the most Global 2000 companies?
 
@@ -22,7 +22,7 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 
 - Are there regional differences in average profit margin or return on assets (ROA)?
 
-3. Financial Performance Analysis
+3. **Financial Performance Analysis**
 
 - Is there a strong correlation between assets and market value? (Do investors reward large asset bases?)
 
@@ -30,7 +30,7 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 
 - Are there firms with high market value but relatively low sales or profit → overvalued growth companies?
 
-4. Rank & Valuation Dynamics
+4. **Rank & Valuation Dynamics**
 
 - What financial metrics best explain a company’s rank (e.g., is rank driven more by sales, profit, or market value)?
 
@@ -38,9 +38,7 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 
 - Do the top 10% ranked companies show fundamentally different metrics compared to the rest?
 
-5. Strategic & Investment Insights
-
-- Which industries/countries have the fastest-growing companies (if you bring in multiple years)?
+5. **Strategic & Investment Insights**
 
 - Which companies look undervalued (high profit/assets but relatively low market value)?
 
