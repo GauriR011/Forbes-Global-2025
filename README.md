@@ -3,7 +3,7 @@
 Forbes’ Global 2000 ranks the largest public companies in the world using four metrics—sales, profits, assets and market value—and despite the geopolitical uncertainty and combativeness resulting from Donald Trump’s tariffs, all four reached records this year. The 2,000 companies on the 2025 list account for $52.9 trillion in annual revenue, $4.9 trillion in profit, $242.2 trillion in assets and $91.3 trillion in market cap.
 
 
-### Business Questions
+### Business Questions to Analyze
 
 
 1. Industry & Market Trends
