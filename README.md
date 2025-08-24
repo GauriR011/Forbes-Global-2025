@@ -6,12 +6,13 @@ Forbes’ Global 2000 ranks the largest public companies in the world using four
 </p>
 
 
-### Business Questions to Analyze
+## Business Questions to Analyze
 
 
 1. **Industry & Market Trends**
 
-- Which industries dominate the Global 2000 in terms of market value or sales?
+- Which industries dominate the Global 2000 in terms of market value or sales?    
+  -   ...
 
 - Do some industries achieve higher profitability margins (profit/sales) than others?
 
